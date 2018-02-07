@@ -1,0 +1,17 @@
+{
+  "name": "git_branch_deletion",
+  "version": "1.0.0",
+  "description": "sample demo to delete the branches in git",
+  "main": "branch_deletion.js",
+  "scripts": {
+    "test": "node branch_deletion.js"
+  },
+  "author": "pavani",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "nodemailer": "^4.4.2",
+    "request-promise": "^4.2.2",
+    "unirest": "^0.5.1"
+  }
+}
